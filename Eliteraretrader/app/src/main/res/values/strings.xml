@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">Elite rare trader</string>
+    <string name="disclaimer">Fan made application. Not associated with Frontier Developments PLC</string>
+    <string name="loading">Loading settings and database ...</string>
+    <string name="main_tradeButton">Loop Route Planner</string>
+    <string name="main_onewayButton">Single Route Planner</string>
+    <string name="main_explination">        Single Route Planner is for one way trips. Note: you will to know the spatial location of
+        the system you need want to go to. The Loop Route Planner will make a loop to a number of
+        legs and then will send you back to the system you started in. Note: Number of legs needs
+        to be greater than 2.</string>
+    <string name="main_permits">System Permits</string>
+    <string name="permits_explination">        This screen is for systems that require permits to enter. If you have permits to any of the
+        following systems please check them and the router will include them in it\'s calculations.
+        Otherwise, the router will ignore these systems.</string>
+    <string name="permits_shinrarta">Shinrarta Dezhra</string>
+    <string name="permits_vega">Vega</string>
+    <string name="common_choose">Choose a start system</string>
+    <string name="common_start">Pick a start system above</string>
+    <string name="single_end">Enter an end system</string>
+    <string name="single_location">Enter the location of the system below</string>
+    <string name="single_x">X</string>
+    <string name="single_y">Y</string>
+    <string name="single_z">Z</string>
+    <string name="common_cargo">Enter your maximum cargo</string>
+    <string name="common_half">        Check below if you do not want to wait for refresh of the starport\'s supply. Note: This is a
+        halving of the max allotment to estimate what you could receive in one allotment of a starport.</string>
+    <string name="common_half_option">Half Allotments</string>
+    <string name="common_calc">Calculate Route</string>
+    <string name="loop_end">Pick an end system above</string>
+    <string name="loop_choose">Choose an end system</string>
+    <string name="blank">Default</string>
+    <string name="loop_legs">Enter the number of legs</string>
+    <string name="action_settings">Settings</string>
+
+</resources>
