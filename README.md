@@ -5,5 +5,4 @@ Developed for the game Elite: Dangerous as an external application for users of 
 This application is in a working prototype stage. The application funcitons as intended, but polish needs to be done visually.
 
 Changes occuring:
-UI customization
-Routing Algorithm optimizations
+UI customization and Routing Algorithm optimizations
